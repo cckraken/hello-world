@@ -1,2 +1,4 @@
 # hello-world
-Just another respository
+Hi humans!
+
+Dan here. I like getting sw0le
